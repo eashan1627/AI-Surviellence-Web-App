@@ -1,0 +1,30 @@
+.div_1{
+    width: 100%;
+    height: fit-content;
+    margin-top: 0px;
+    font-size: 23px
+    }
+
+    body{
+        background-size: cover;
+    }
+
+    .button{
+        font-size: 18px;
+        font-weight: 300;
+    }
+
+    .copyright_footer{
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+        line-height: 3;
+        color: white;
+        background-color: grey;
+    }
+
+    canvas{
+        border: 2px solid whitesmoke;
+        margin-top: 90px;
+        box-shadow: 5px 5px 5px whitesmoke;
+    }
